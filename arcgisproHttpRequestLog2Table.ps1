@@ -1,5 +1,5 @@
 ﻿# This script creates a table in SQL Server and populates it from the HTTP request "log" element of 
-# ArcGIS Pro's diagnostic monitor that has been saved to a file.
+# ArcGIS Pro's diagnostic monitor that has been copied and saved to a file.
 # Before running the script, update the variables at the beginning of the file
 
 # VARIABLES TO UPDATE
